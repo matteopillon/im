@@ -19,6 +19,13 @@ body
     color: rgb(0, 132, 255)
 }
 
+.accent a
+{
+    color: rgb(0, 132, 255);
+    text-decoration: none
+}
+
+
 span.accent   {    
     font-weight: bold;    
 }
