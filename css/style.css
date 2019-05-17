@@ -8,11 +8,25 @@ body
     text-align: left
 }
 
+h1{
+    font-size: 40pt;
+}
+
+.enum
+{
+    color: rgba(0, 255, 149, 0.63)
+}
+
+.statement
+{
+    color: rgba(0, 132, 255, 0.568)
+}
+
 .comment
-{    
-    font-size: 50pt;
+{        
     color: rgb(100, 100, 100)
 }
+
 
 .accent 
 {
